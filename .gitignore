@@ -1,0 +1,29 @@
+Films/*
+Extras/*
+extract/*
+Logs/*
+Maps*
+SAI/vssver.scc
+
+Campaign/*
+Shaders/*
+
+*.exe
+*.tgw
+*.dll
+*.conf
+*.cfg
+*.tgx
+
+autopatch.ini
+ddraw.ini
+readme.txt
+error.txt
+LicenseAgreement.txt
+Uninstall Kohan Ahriman's Gift.lnk
+version.txt
+Data/MULTIMEDIA.INI
+
+# For excluding local changelog notes
+# Not a game file
+*changelog.log
